@@ -1,0 +1,43 @@
+h3{
+  font: bold 25pt Times;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-left: 15px;
+  text-align: left;
+}
+
+.contentBorder{
+  box-shadow: 5px 5px 5px 5px lightgrey;
+  max-width: 800px;
+  margin-top: 2%;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-bottom: 5px;
+  padding-right: 15px;
+  }
+
+.imgCenter {
+  margin-left: 15px;
+  margin-right: 15px;
+  min-width: 96%;
+  display: block;
+  border: 2px solid lightgrey;
+}
+
+.paragraph{
+  font: 14pt Times;
+  border: 2px solid lightgrey;
+  margin: 15px;
+  padding: 3%;
+  min-width: 90%;
+  display: block;
+  flex-wrap: wrap;
+}
+.listTitle{
+  font: bold 14pt Times;
+}
+.listType{
+  list-style-type: none;
+  padding-left: 0px;
+}
