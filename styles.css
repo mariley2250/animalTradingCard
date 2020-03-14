@@ -9,7 +9,7 @@ h3{
 
 .contentBorder{
   box-shadow: 5px 5px 5px 5px lightgrey;
-  max-width: 800px;
+  max-width: 315px;
   margin-top: 2%;
   margin-left: 15px;
   margin-right: 15px;
@@ -20,13 +20,13 @@ h3{
 .imgCenter {
   margin-left: 15px;
   margin-right: 15px;
-  min-width: 96%;
+  width: 300px;
   display: block;
   border: 2px solid lightgrey;
 }
 
 .paragraph{
-  font: 14pt Times;
+  font: 12pt Times;
   border: 2px solid lightgrey;
   margin: 15px;
   padding: 3%;
@@ -35,7 +35,7 @@ h3{
   flex-wrap: wrap;
 }
 .listTitle{
-  font: bold 14pt Times;
+  font: bold 12pt Times;
 }
 .listType{
   list-style-type: none;
